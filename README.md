@@ -1,2 +1,2 @@
-# -AI-Mesh-Diia-Gov-LLM-UA
+# AI-Mesh-Diia-Gov-LLM-UA
 Diia.AI 
